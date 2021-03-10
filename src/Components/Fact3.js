@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+// import Post from './Post';
+// import Home from './Home'
 
 const Fact3 = () => {
     return (
